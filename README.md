@@ -1,5 +1,5 @@
 # NeBC
-This is the open-source codebase the paper: __Novelty Encouraged Beam Clustering Search for Multi-Objective \emph{De Novo} Diverse Drug Design__. Please do not hesitate to contact us if you have any problems.
+This is the open-source codebase the paper: __Novelty Encouraged Beam Clustering Search for Multi-Objective De Novo Diverse Drug Design__. Please do not hesitate to contact us if you have any problems.
 
 ## Description
 - Beam clustering search algorithm is proposed to generate molecules from scratch, balancing the diversity and the optimality of generated molecules simultaneously. A clustering strategy based on molecule structure similarities is utilized to partition the intermediate molecules into various groups for candidates selection, which ensures a balanced representation across different generation directions and proactively enhances the exploration of diverse molecular structures.
